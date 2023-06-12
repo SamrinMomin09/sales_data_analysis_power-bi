@@ -1,1 +1,1 @@
-# sales_data_analysis_power-bi_project
+# sales_data_analysis_power bi_project
